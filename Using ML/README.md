@@ -1,5 +1,5 @@
 # Image-classification
-Image classification int o 4 categories - car, ship, motorcycle, plane
+Image classification into 4 categories - car, ship, motorcycle, plane
 Assignment
  To identify the object on the screen if the object boundary is selected by user.
 
