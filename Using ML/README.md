@@ -1,7 +1,6 @@
 # Image-classification
-Image classification into 4 categories - car, ship, motorcycle, plane
-Assignment
- To identify the object on the screen if the object boundary is selected by user.
+	Image classification into 4 categories - car, ship, motorcycle, plane.
+	Assignment - To identify the object on the screen if the object boundary is selected by user.
 
 
 # Image Preprocessing
