@@ -17,15 +17,15 @@ Assignment
 
 # Classification
 
-  RandomForestClassifier is used to classify the images.
-  n_estimators = 200
-  Accuracy achieved on validation data = 71.7 %
-	A Convolutional Neural Network is used to classify the images.
+	  RandomForestClassifier is used to classify the images.
+	  n_estimators = 200
+	  Accuracy achieved on validation data = 71.7 %.
+	  The fitted model is saved as classifier.pkl using the pickle library.
 
 
 # Main.py
 	
-  This combines all the parts of the solution.
+ 	This combines all the parts of the solution.
 	A user could simply run this to test the model.
 	
 	First of all, the user will be prompt to enter the time to take screenshot. This implementation could
