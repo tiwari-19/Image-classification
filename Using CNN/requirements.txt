@@ -10,7 +10,7 @@ imutils==0.4.5
 Markdown==2.6.11
 matplotlib==2.1.2
 numpy==1.14.1
-opencv-python==3.4.0.12
+opencv-python==3.4.7.28
 Pillow==5.0.0
 pkg-resources==0.0.0
 protobuf==3.5.1
